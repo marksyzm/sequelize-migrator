@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-migrator",
+  "version": "0.0.1",
+  "description": "Migrate sequelize stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marksyzm/sequelize-migrator.git"
+  },
+  "author": "Mark Elphinstone-Hoadley <mark@oxfordsourceltd.com> (http://www.oxfordsourceltd.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marksyzm/sequelize-migrator/issues"
+  },
+  "homepage": "https://github.com/marksyzm/sequelize-migrator#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "sequelize": "^3.23.4",
+    "sequelize-cli": "^2.4.0",
+    "umzug": "^1.11.0"
+  }
+}
