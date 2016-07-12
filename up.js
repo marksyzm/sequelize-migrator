@@ -1,1 +1,1 @@
-import './lib/migration/up';
+require('./lib/migration/up');

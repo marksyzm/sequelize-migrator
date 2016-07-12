@@ -1,1 +1,1 @@
-import './up';
+require ('./up');

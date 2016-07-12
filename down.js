@@ -1,1 +1,1 @@
-import './lib/migration/down';
+require('./lib/migration/down');
